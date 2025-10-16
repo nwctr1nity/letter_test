@@ -10,3 +10,5 @@
 
 Промокод выполнен текстом
 
+## Внешний вид
+![alt text](https://raw.githubusercontent.com/nwctr1nity/letter_test/commit/letter.png)
