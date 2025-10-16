@@ -10,5 +10,5 @@
 
 Промокод выполнен текстом
 
-## Внешний вид
+## Внешний вид (логотипы заблюрил)
 ![alt text](https://raw.githubusercontent.com/nwctr1nity/letter_test/6a928d40db192400c30132acaaec05acb42a8933/letter.png)
